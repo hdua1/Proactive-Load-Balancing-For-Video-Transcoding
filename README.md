@@ -1,4 +1,4 @@
-# Proactive-Load-Balancing-for-Video-Transcoding
+# Proactive Load Balancing for Video Transcoding
 
 Python application to implement proactive load balancing for transcoding video using video features
 
